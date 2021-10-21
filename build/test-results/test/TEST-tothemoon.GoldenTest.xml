@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tothemoon.GoldenTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-21T16:07:34" hostname="peqqer" time="0.065">
+  <properties/>
+  <testcase name="[1] 5 5&#10;1 2 N&#10;LMLMLMLMM, 1.0, 3.0, N, 5.0, 5.0" classname="tothemoon.GoldenTest" time="0.058"/>
+  <testcase name="[2] 5 5&#10;3 3 E&#10;MMRMMRMRRM, 5.0, 1.0, E, 5.0, 5.0" classname="tothemoon.GoldenTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

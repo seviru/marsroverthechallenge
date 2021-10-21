@@ -1,0 +1,12 @@
+tothemoon/PositionTest.java
+ tothemoon.PositionTest
+tothemoon/AdamParserTest.java
+ tothemoon.AdamParserTest
+tothemoon/DirectionTest.java
+ tothemoon.DirectionTest
+tothemoon/AdamTest.java
+ tothemoon.AdamTest
+tothemoon/InstructionTest.java
+ tothemoon.InstructionTest
+tothemoon/GoldenTest.java
+ tothemoon.GoldenTest
